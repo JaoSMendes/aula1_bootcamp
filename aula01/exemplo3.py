@@ -1,0 +1,5 @@
+nome = input("Qual seu nome: ")
+salario = float(input("Qual seu salario: "))
+bonus = float(input("Qual bonus recebido: "))
+print(f"Seu valor final e {salario + bonus}")
+print(f"{nome}, seu salario e de {salario} e seu bonus {bonus}")
